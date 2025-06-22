@@ -1,0 +1,19 @@
+# My Project
+
+This is a sample project for demonstrating GitHub commits.
+
+## Features
+
+- Simple and clean structure
+- Easy to modify
+- Perfect for learning Git basics
+
+## Getting Started
+
+1. Clone the repository
+2. Make changes to this file
+3. Commit and push to GitHub
+
+## License
+
+MIT License
